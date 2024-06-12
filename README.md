@@ -1,3 +1,5 @@
+https://www.buymeacoffee.com/RezaArani
+
  
 # mymon, A very simple website monitoring tool
 
@@ -19,6 +21,7 @@ A simple and efficient web monitoring platform developed in Go. This platform is
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/RezaArani)
 
 ## Installation
 
