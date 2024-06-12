@@ -1,0 +1,38 @@
+     {
+        "HTTPBinding":":800",
+        "WebhookHttpMethod":"GET",
+        "PostBody":"",
+        "FollowRedirects":true,
+        "ClientCertFile":"",
+        "FourOnly":false,
+        "SixOnly":false,
+        "MaxRedirects":10,
+        "Debug":false,
+        "HttpHeaders":[
+            "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+            "Sec-Fetch-Site:none",
+            "Sec-Fetch-Mode:navigate",
+            "Sec-Fetch-User:?1",
+            "sec-ch-ua:\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+            "sec-ch-ua-platform:\"Windows\"",
+            "Accept-Encoding:gzip",
+            "Accept-Language:en-US,en;q=0.9",
+            "Sec-Fetch-Dest:document",
+            "sec-ch-ua-mobile:?0",
+            "Connection:keep-alive"
+        ],
+        "WebhookURL":"http://127.0.0.1?TestInfo=~TESTINFO~&Url=~URL~&ErrorMessage=~ERROR~",
+        "Websites":[
+            {
+                "url":"https://i2v.ir",
+                "interval":5,
+                "alarmfailtestcount":3,
+                "httpmethod":"GET",
+                "ignorecertificate":true
+            } 
+            
+            
+        ]
+    } 
+ 
