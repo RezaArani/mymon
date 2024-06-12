@@ -22,11 +22,11 @@
             "sec-ch-ua-mobile:?0",
             "Connection:keep-alive"
         ],
-        "WebhookURL":"http://127.0.0.1?TestInfo=~TESTINFO~&Url=~URL~&ErrorMessage=~ERROR~",
+        "WebhookURL":"http://webhookurl.cc?TestInfo=~TESTINFO~&Url=~URL~&ErrorMessage=~ERROR~",
         "Websites":[
             {
-                "url":"https://i2v.ir",
-                "interval":5,
+                "url":"https://semmapas.com",
+                "interval":60,
                 "alarmfailtestcount":3,
                 "httpmethod":"GET",
                 "ignorecertificate":true
