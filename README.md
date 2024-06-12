@@ -21,7 +21,8 @@ A simple and efficient web monitoring platform developed in Go. This platform is
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/RezaArani)
+
+<a href="https://www.buymeacoffee.com/rezaarani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Installation
 
